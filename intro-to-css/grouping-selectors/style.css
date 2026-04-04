@@ -1,2 +1,8 @@
 /* Add CSS Styling */
 
+.IronHide,
+.Bumblebee {
+    font-size: 28px;
+    font-family: Helvetica, "New Times Roman", sans-serif;
+}
+
