@@ -10,8 +10,7 @@ body {
   font-size: 14px;
 }
 
-.para,
-.small-para {
+p {
   color: hsl(0, 0%, 0%);
   font-weight: 800;
 }
@@ -22,13 +21,12 @@ body {
   font-weight: bold;
 } 
 
-.cancel-button {
+#cancel-button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
 }
 
-#confirm-button,
-#cancel-button {
+button {
     font-size: 20px;
 }
 
